@@ -1,0 +1,1 @@
+from . import check_tests_existance
